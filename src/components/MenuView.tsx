@@ -18,7 +18,7 @@ export default function MenuView({ onSelect }: { onSelect: (caseId: string) => v
   return (
     <div className="menu">
       <header className="menu-head">
-        <div className="menu-kicker">便利店的深夜,总有对不上的细节</div>
+        <div className="menu-kicker">深夜里，总有对不上的细节。</div>
         <h1 className="menu-title">夜班档案</h1>
         <div className="menu-sub">五份档案 · 每案 10~15 分钟 · 一晚一案,查清再下班</div>
       </header>
